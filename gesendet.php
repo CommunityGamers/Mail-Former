@@ -1,39 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NTF2DNN');
-
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111742062-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-111742062-1');
-
-    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -44,11 +11,7 @@
     <link rel="stylesheet" href="css/footer.css">
 
     <title>CG|Gesendet</title>
-
-    <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-
-    <!-- Custom styles for this template -->
     <style type="text/css">
         body {
             padding-top: 5rem;
@@ -65,10 +28,6 @@
 
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTF2DNN"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
         <a class="navbar-brand" href="index.html">CG</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -121,37 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<img src="svg/Clock.svg"><br /><br />
 
 
-                <!-- Marketing messaging and featurettes
-      ================================================== -->
-                <!-- Wrap the rest of the page in another container to center all the content. -->
-
-
-                <!-- Three columns of text below the carousel -->
-                <div class="row">
-                    <div class="col-lg-4">
-                        <img src="img/soxox1.png" alt="Generic placeholder image"><br /><br />
-                        <h2><strong>Soxox</strong></h2>
-                        <p><strong>Admin</strong></p>
-                    </div>
-                    <!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
-                        <img src="img/felary.png" alt="Generic placeholder image"><br /><br />
-                        <h2><strong>Felary</strong></h2>
-                        <p><strong>Admin</strong></p>
-                    </div>
-                    <!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
-                        <img src="img/lumin.png" alt="Generic placeholder image">
-                        <h2><strong>xX_Lumin4x_Xx</strong></h2>
-                        <p><strong>Builder</strong></p>
-                    </div>
-                    <!-- /.col-lg-4 -->
-                </div>
-                <!-- /.row -->
-
-
-            </div>
-            <!-- /.container --><br /><br /><br /><br />
+                
 
             <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -184,10 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 </div>
 
-            </div>
-
-            <!-- Bootstrap core JavaScript ================================================== -->
-            <!-- Placed at the end of the document so the pages load faster -->
+		    </div>
             <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
