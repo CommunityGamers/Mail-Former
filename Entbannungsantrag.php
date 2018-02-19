@@ -2,38 +2,6 @@
 <html lang="en">
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NTF2DNN');
-
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111742062-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-111742062-1');
-
-    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -46,11 +14,7 @@
     <link rel="stylesheet" href="css/home.css">
     <link rel="stylesheet" href="css/Kontakt.css">
     <title>CG|Entbannungsantrag</title>
-
-    <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-
-    <!-- Custom styles for this template -->
     <style type="text/css">
         body {
             padding-top: 5rem;
@@ -140,9 +104,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <input type="submit" name="submit" value="Send" id="ContactButton" />
                     </form>
 
-
-                    <!-- Bootstrap core JavaScript ================================================== -->
-                    <!-- Placed at the end of the document so the pages load faster -->
                     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
 
 
